@@ -1,0 +1,56 @@
+
+    <div class="container">
+        <div class="row mb--30">
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/56.jpg" style="height: 300px;" alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Jitu   Bhoy</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - </a> <br>
+                       <a href="news-details.html">Experience - </a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="	http://vivekanandcollege.co.in/AlbumImages/57.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Dr. Parul   Patel</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - M.COM, M.PHILL, PH.D</a> <br>
+                       <a href="news-details.html">Experience - </a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/30.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Badal   Mehta</a></h3>
+                       <a href="news-details.html">Designation - I/C Principal</a> <br>
+                       <a href="news-details.html">Qualification - </a> <br>
+                       <a href="news-details.html">Experience - </a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/48.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Apexa   Patel</a></h3>
+                       <a href="news-details.html">Designation - Adhoc Lecturer</a> <br>
+                       <a href="news-details.html">Qualification - M.A, B.ED</a> <br>
+                       <a href="news-details.html">Experience - 11</a>
+                    </div>
+                </div>
+            </div>
+            
+            
+
+        </div>
+    </div>

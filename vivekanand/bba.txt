@@ -1,0 +1,56 @@
+
+    <div class="container">
+        <div class="row mb--30">
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/24.jpg" style="height: 300px;" alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Varsha   Gondaliya</a></h3>
+                       <a href="news-details.html">Designation - I/C principal</a> <br>
+                       <a href="news-details.html">Qualification - </a> <br>
+                       <a href="news-details.html">Experience - </a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/27.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">M   Shaikh</a></h3>
+                       <a href="news-details.html">Designation - ADHOC LECTURER</a> <br>
+                       <a href="news-details.html">Qualification - </a> <br>
+                       <a href="news-details.html">Experience - </a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="	http://vivekanandcollege.co.in/AlbumImages/25.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Mahesh   Purohit</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - M.B.A (FINANCE & MARKETING)</a> <br>
+                       <a href="news-details.html">Experience - 5</a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/26.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Hetalgiri   Mehta</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - </a> <br>
+                       <a href="news-details.html">Experience - </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+
+        </div>
+    </div>

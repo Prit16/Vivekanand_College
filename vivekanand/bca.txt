@@ -1,0 +1,126 @@
+    <div class="container">
+        <div class="row mb--30" >
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/11.jpg" style="height: 300px;" alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Dr. Sandeep   Surti</a></h3>
+                       <a href="news-details.html">Designation - I/C principal</a> <br>
+                       <a href="news-details.html">Qualification - M.C.A, M.Phill, Ph.D</a> <br>
+                       <a href="news-details.html">Experience - </a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="	http://vivekanandcollege.co.in/AlbumImages/12.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Chetan   Rathod</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - M.C.A, M.Phil </a> <br>
+                       <a href="news-details.html">Experience - 12</a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/13.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Dr. Asma   Patel</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - M.Sc(ICT),Ph.D</a> <br>
+                       <a href="news-details.html">Experience - 12</a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/15.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Megha   Rana</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - M.C.A, GSET, Ph.D</a> <br>
+                       <a href="news-details.html">Experience - 10</a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="	http://vivekanandcollege.co.in/AlbumImages/hitesh.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Hitesh   Vora</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - M.C.A, NET</a> <br>
+                       <a href="news-details.html">Experience - 3</a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="	http://vivekanandcollege.co.in/AlbumImages/19.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Hiral   Joshi</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - M.C.A</a> <br>
+                       <a href="news-details.html">Experience - 10</a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="	http://vivekanandcollege.co.in/AlbumImages/20.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Bijal   Bhagat</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - </a> <br>
+                       <a href="news-details.html">Experience - </a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="	http://vivekanandcollege.co.in/AlbumImages/21.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Nidhi   Joshi</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - M.C.A</a> <br>
+                       <a href="news-details.html">Experience - 8</a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/18.jpg" style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Rini   Cherian</a></h3>
+                       <a href="news-details.html">Designation - ASSISTANT PROFESSOR</a> <br>
+                       <a href="news-details.html">Qualification - M.C.A</a> <br>
+                       <a href="news-details.html">Experience - 7</a>
+                    </div>
+                </div>
+            </div>
+            <!-- News Item -->
+            <div class="col-lg-4 col-md-6 col-12 mb-30">
+                <div class="news-item">
+                    <a href="news-details.html" class="image"><img src="http://vivekanandcollege.co.in/AlbumImages/tanvi_patel.jpg
+                        " style="height: 300px;"  alt="Image"></a>
+                    <div class="content">
+                        <h3><a href="news-details.html">Tanvi   Patel</a></h3>
+                       <a href="news-details.html">Designation - ADHOC LECTURER</a> <br>
+                       <a href="news-details.html">Qualification - M.C.A, </a> <br>
+                       <a href="news-details.html">Experience - 5</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
